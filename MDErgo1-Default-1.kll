@@ -1,0 +1,49 @@
+Name = "MDErgo1";
+Variant = "standard";
+Layout = "Default";
+Base = "Blank";
+Version = "0.1";
+Author = "Jonathan Reed";
+KLL = "0.3c";
+Date = "01-02-2019";
+Generator = "KIICONF 0.2";
+
+U"ESC" : U"F11";
+U"5" : U"F5";
+U"4" : U"F4";
+U"3" : U"F3";
+U"2" : U"F2";
+U"1" : U"F1";
+U"R" : CONS"SCANNEXTTRACK";
+U"E" : CONS"SCANPREVIOUSTRACK";
+U"W" : CONS"PAUSEPLAY";
+U"F" : CONS"VOLUMEUP";
+U"D" : CONS"VOLUMEDOWN";
+U"S" : CONS"MUTE";
+U"V" : CONS"BRIGHTNESSINCREMENT";
+U"C" : CONS"BRIGHTNESSDECREMENT";
+U"FUNCTION6" : U"F12";
+U"6" : U"F6";
+U"7" : U"F7";
+U"8" : U"F8";
+U"9" : U"F9";
+U"0" : U"F10";
+U"MINUS" : U"LGUI";
+U"Y" : '+';
+U"U" : '(';
+U"I" : U"UP";
+U"O" : ')';
+U"P" : U"EQUAL";
+U"RBRACE" : U"BACKSLASH";
+U"H" : U"-";
+U"J" : U"LEFT";
+U"K" : U"DOWN";
+U"L" : U"RIGHT";
+U"SEMICOLON" : '_';
+U"N" : U"LBRACE";
+U"M" : '{';
+U"PERIOD" : '}';
+U"SLASH" : U"RBRACE";
+
+
+

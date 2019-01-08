@@ -1,0 +1,17 @@
+Name = "MDErgo1";
+Variant = "standard";
+Layout = "Default";
+Base = "Blank";
+Version = "0.1";
+Author = "Jonathan Reed";
+KLL = "0.3c";
+Date = "01-02-2019";
+Generator = "KIICONF 0.2";
+
+U"I" : mouseOut( 0, 0, -1 );
+U"J" : mouseOut( 0, -1, 0 );
+U"K" : mouseOut( 0, 0, 1 );
+U"L" : mouseOut( 0, 1, 0 );
+
+
+
