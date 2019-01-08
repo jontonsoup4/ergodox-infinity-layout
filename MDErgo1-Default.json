@@ -618,8 +618,8 @@
                     "label": "F7"
                 },
                 "2": {
-                    "key": "NUMLOCK",
-                    "label": "NMLK"
+                    "key": "ESCAPE",
+                    "label": "ESC"
                 }
             }
         },
@@ -639,8 +639,8 @@
                     "label": "F8"
                 },
                 "2": {
-                    "key": "P\/",
-                    "label": "P\/"
+                    "key": "CONS:CALCULATOR",
+                    "label": "CALC"
                 }
             }
         },
@@ -660,8 +660,8 @@
                     "label": "F9"
                 },
                 "2": {
-                    "key": "P*",
-                    "label": "P*"
+                    "key": "#:'%'",
+                    "label": "%"
                 }
             }
         },
@@ -681,8 +681,8 @@
                     "label": "F10"
                 },
                 "2": {
-                    "key": "P-",
-                    "label": "P-"
+                    "key": "P\/",
+                    "label": "P\/"
                 }
             }
         },
@@ -824,8 +824,8 @@
                     "label": "="
                 },
                 "2": {
-                    "key": "P+",
-                    "label": "P+"
+                    "key": "P*",
+                    "label": "P*"
                 }
             }
         },
@@ -966,8 +966,8 @@
                     "label": "_"
                 },
                 "2": {
-                    "key": "P+",
-                    "label": "P+"
+                    "key": "P-",
+                    "label": "P-"
                 }
             }
         },
@@ -1115,8 +1115,8 @@
                     "label": "]"
                 },
                 "2": {
-                    "key": "PENTER",
-                    "label": "P\u21b5"
+                    "key": "P+",
+                    "label": "P+"
                 }
             }
         },
@@ -1174,6 +1174,10 @@
                     "key": "ENTER",
                     "label": "\u21b5"
                 },
+                "2": {
+                    "key": "PENTER",
+                    "label": "P\u21b5"
+                },
                 "3": {
                     "key": "#:mouseOut( 1, 0, 0 )",
                     "label": "Btn 1"
@@ -1211,6 +1215,10 @@
                 "0": {
                     "key": "LEFT",
                     "label": "\u2190"
+                },
+                "2": {
+                    "key": "P0",
+                    "label": "P0"
                 }
             }
         },
@@ -1224,6 +1232,10 @@
                 "0": {
                     "key": "UP",
                     "label": "\u2191"
+                },
+                "2": {
+                    "key": "P,",
+                    "label": "P,"
                 }
             }
         },
@@ -1256,8 +1268,8 @@
                     "label": "\u2192"
                 },
                 "2": {
-                    "key": "PENTER",
-                    "label": "P\u21b5"
+                    "key": "P=",
+                    "label": "P="
                 }
             }
         },

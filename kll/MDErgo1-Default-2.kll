@@ -9,26 +9,29 @@ Date = "01-02-2019";
 Generator = "KIICONF 0.2";
 
 U"EQUALS" : flashMode();
-U"7" : U"NUMLOCK";
-U"8" : U"P/";
-U"9" : U"P*";
-U"0" : U"P-";
+U"7" : U"ESCAPE";
+U"8" : CONS"CALCULATOR";
+U"9" : '%';
+U"0" : U"P/";
 U"MINUS" : flashMode();
 U"U" : U"P7";
 U"I" : U"P8";
 U"O" : U"P9";
-U"P" : U"P+";
+U"P" : U"P*";
 U"J" : U"P4";
 U"K" : U"P5";
 U"L" : U"P6";
-U"SEMICOLON" : U"P+";
+U"SEMICOLON" : U"P-";
 U"M" : U"P1";
 U"COMMA" : U"P2";
 U"PERIOD" : U"P3";
-U"SLASH" : U"PENTER";
+U"SLASH" : U"P+";
+U"ENTER" : U"PENTER";
 U"SPACE" : U"P0";
+U"LEFT" : U"P0";
+U"DOWN" : U"P,";
 U"UP" : U"P.";
-U"RIGHT" : U"PENTER";
+U"RIGHT" : U"P=";
 
 
 
